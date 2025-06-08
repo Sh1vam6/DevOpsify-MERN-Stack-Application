@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: devopswithshivam.live
+    - host: www.devopswithshivam.live
       http:
         paths:
           - path: /api
