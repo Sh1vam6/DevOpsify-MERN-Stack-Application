@@ -24,8 +24,6 @@ Thumbs.db
 *.tfstate
 *.tfstate.*
 .terraform/
-terraform.tfvars
-*.tfvars
 
 # Docker
 **/*.tar
